@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ## About Me
-I am a recent graduate from Seattle Pacific University with degrees in in Computer Science (B.S.), Physics (B.S.), and Honors Liberal Arts (B.A.). I am excited to be joining Southwest Airlines as an Associate Market Strategy Yield Analyst this July. 
+I am a recent graduate from Seattle Pacific University with degrees in in Computer Science (B.S.), Physics (B.S.), and Honors Liberal Arts (B.A.). I am excited to have recently joined Southwest Airlines as an Associate Market Strategy Yield Analyst. 
 
 Please check out my work, also showcased on my portfolio website, and feel free to reach out to me with any questions or comments. I would love to be in touch.
 
