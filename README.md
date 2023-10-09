@@ -1,4 +1,4 @@
-# Andrew Macpherson ✈️🖥️
+# Andrew Macpherson ✈️
 
 ## About Me
 I am a recent graduate from Seattle Pacific University with degrees in in Computer Science (B.S.), Physics (B.S.), and Honors Liberal Arts (B.A.). I am currently purusing analytics and operations-based roles in the aviation industry.
