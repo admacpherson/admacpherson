@@ -29,12 +29,6 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
 
 ![Rev. Christopher Stratton](https://media.licdn.com/dms/image/D5603AQFOgRDbnQr-kw/profile-displayphoto-shrink_100_100/0/1694750000359?e=1702512000&v=beta&t=1JeVGjl-88z1g45jpjnudDfaXJr3MP5oF992m_RREnM) 
 
-> Andrew was a fellow under my management for the Harley Rouda for Congress campaign. Early on, he took an active role within the fellowship program and eventually became one of the leaders amongst his peers, providing essential help on the data side of the program. He is active, persistent, and consistent, and receives my full endorsement for future employment opportunities.
-
-Adam Tallabas | Fellowship Coordinator | Harley Rouda for Congress
-
-![Adam Tallabas](https://media.licdn.com/dms/image/D5603AQEQ6qX1m_hmzA/profile-displayphoto-shrink_100_100/0/1673389613284?e=1702512000&v=beta&t=gBtwXiGUmXXMPW8DrSCuk5zgYdN3EoUdDGJrHuBbHuI)
-
 
 ## Contact
 Portfolio: <a href="https://andrewm.tech">andrewm.tech</a><br>
