@@ -29,6 +29,7 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
 
 ![Rev. Christopher Stratton](https://media.licdn.com/dms/image/D5603AQFOgRDbnQr-kw/profile-displayphoto-shrink_100_100/0/1694750000359?e=1702512000&v=beta&t=1JeVGjl-88z1g45jpjnudDfaXJr3MP5oF992m_RREnM) 
 
+<a href="https://www.linkedin.com/in/macphersona/details/recommendations/">See more on my LinkedIn profile!</a>
 
 ## Contact
 Portfolio: <a href="https://andrewm.tech">andrewm.tech</a><br>
