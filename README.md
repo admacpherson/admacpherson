@@ -21,13 +21,11 @@ Please check out my work, also showcased on my portfolio website, and feel free 
 
 Dr. James Walker | Assistant Professor of Mechanical and General Engineering | Seattle Pacific University 
 
-![Dr. James Walker](https://media.licdn.com/dms/image/C4E03AQFGDNABt3Kd0A/profile-displayphoto-shrink_100_100/0/1517565721041?e=1702512000&v=beta&t=0NR_e3JrI3fFf0Zl8yFQDSdE5WTBJ5FLfiIeFBHC3ec)
 
 > Andrew is thoughtful and conscientious. He works diligently at all he does, and attempts to see all sides of a problem in order to bring about good solutions. I have known him to be very persistent and mature for his age. He is particularly skilled at statistics and data analysis. He engaged in a special honors project for us at Pacifica where he created a survey to analyze the correlation between moral/ethical theories and political affiliation. This set him apart from many of his peers. I highly recommend him to you.
 
 Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
 
-![Rev. Christopher Stratton](https://media.licdn.com/dms/image/D5603AQFOgRDbnQr-kw/profile-displayphoto-shrink_100_100/0/1694750000359?e=1702512000&v=beta&t=1JeVGjl-88z1g45jpjnudDfaXJr3MP5oF992m_RREnM) 
 
 <a href="https://www.linkedin.com/in/macphersona/details/recommendations/">See more on my LinkedIn profile!</a>
 
