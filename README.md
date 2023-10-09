@@ -11,9 +11,9 @@ Please check out my work, also showcased on my portfolio website, and feel free 
 <b>Supervisor</b> | Underdog Sports Leagues <br>
 
 ## Education
-Bachelor of Science, Computer Science | Seattle Pacific University <br>
-Bachelor of Science, Physics | Seattle Pacific University <br>
-Bachelor of Arts, Honors Liberal Arts | Seattle Pacific University <br>
+<b>Bachelor of Science, Computer Science</b> | Seattle Pacific University <br>
+<b>Bachelor of Science, Physics</b> | Seattle Pacific University <br>
+<b>Bachelor of Arts, Honors Liberal Arts </b>| Seattle Pacific University <br>
 
 ## Contact
 Portfolio: <a href="https://andrewm.tech">andrewm.tech</a><br>
