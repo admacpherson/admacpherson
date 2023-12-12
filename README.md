@@ -3,6 +3,8 @@
 ## About Me
 I am a recent graduate from Seattle Pacific University with degrees in in Computer Science (B.S.), Physics (B.S.), and Honors Liberal Arts (B.A.). I have experience with analytics and operations-based roles in the aviation industry.
 
+Currently, I am working as the <b>Continuous Improvement Manager</b> for <b>New-Indy Packaging</b> in Metropolitan Los Angeles (Cerritos, CA). My role includes work as an analyst and seeking dynamic, data-driven solutions that improve operational efficiency and profitability.
+
 Please check out my work, also showcased on my portfolio website, which has been used in more than 25 countries across the world. Feel free to reach out to me with any questions or comments. I would love to be in touch.
 
 ## Education
