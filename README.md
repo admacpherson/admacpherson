@@ -32,6 +32,6 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
 <a href="https://www.linkedin.com/in/macphersona/details/recommendations/">See more on my LinkedIn profile!</a>
 
 ## Contact
-Portfolio: <a href="https://andrewm.tech">andrewm.tech</a><br>
+Portfolio: <a href="https://amacpherson.dev">amacpherson.dev</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/macphersona">linkedin.com/in/macphersona</a><br>
 Email: <a href="mailto:macphersona@spu.edu">macphersona@spu.edu</a><br>
