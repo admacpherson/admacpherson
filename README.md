@@ -13,6 +13,7 @@ Please check out my work, also showcased on my portfolio website, which has been
 <b>Bachelor of Arts, Honors Liberal Arts </b>| Seattle Pacific University <br>
 
 ## Experience
+<b>Continuous Improvement Manager</b> | New-Indy Packaging<br>
 <b>Associate Market Strategy Yield Analyst</b> | Southwest Airlines<br>
 <b>Inflight Operations Intern</b> | Frontier Airlines <br>
 <b>Supervisor</b> | Underdog Sports Leagues <br>
