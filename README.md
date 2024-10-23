@@ -5,7 +5,7 @@ I am a recent graduate from Seattle Pacific University with degrees in in Comput
 
 Currently, I am working as the <b>Continuous Improvement Manager</b> for <b>New-Indy Packaging</b> in Metropolitan Los Angeles (Cerritos, CA). My role includes work as an analyst and seeking dynamic, data-driven solutions that improve operational efficiency and profitability.
 
-Please check out my work, also showcased on my portfolio website, which has been used in more than 25 countries across the world. Feel free to reach out to me with any questions or comments. I would love to be in touch.
+Please check out my work, also showcased on my portfolio website, which has been used in more than 50 countries across the world. Feel free to reach out to me with any questions or comments. I would love to be in touch.
 
 ## Education
 <b>Bachelor of Science, Computer Science</b> | Seattle Pacific University <br>
