@@ -21,6 +21,7 @@ Please take a look at my profile and feel free reach out to me with any question
 <b>Associate Market Strategy Yield Analyst</b> | Southwest Airlines<br>
 <b>Inflight Operations Intern</b> | Frontier Airlines <br>
 <b>Supervisor</b> | Underdog Sports Leagues <br>
+<b>Computer Science and Physics Tutor</b> | Self-Employed<br>
 
 ## Recommendations
 
