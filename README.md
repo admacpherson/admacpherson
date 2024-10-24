@@ -38,7 +38,7 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
 <a href="https://www.linkedin.com/in/macphersona/details/recommendations/">See more on my LinkedIn profile!</a>
 
 ## Tech Stack & Skills
-<u>Top Skills:</u> Python, SQL, C++, JavaScript, Data Visualization<br><br>
+<b>Top Skills:</b> Python, SQL, C++, JavaScript, Data Visualization<br>
 
 <b>Data Analysis</b> 
 <ul>
@@ -68,6 +68,12 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
   <li>Ruby</li>
   <li>Go</li>
 </ul>
+
+<b>Languages</b>
+<p>
+English  🟩🟩🟩🟩🟩  Native fluency<br>
+Spanish  🟩🟩🟩⬛️⬛️  Conversational <br>
+French   🟩⬛️⬛️⬛️⬛️  Basic proficiency<br></p>
 
 ## Contact
 Portfolio: <a href="https://amacpherson.dev">amacpherson.dev</a><br>
