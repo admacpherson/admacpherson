@@ -5,7 +5,7 @@ I am an analyst and developer currently working as a Continuous Improvement Mana
 
 A motivated worker, I pride myself on my work ethic and ability to work both individually and as part of a team. I am passionate about telling stories with data to produce tangible results and am particularly experienced in aviation and operations. I am thrilled to say that my award-winning work has been used in over 50 countries across the world and across all 6 continents.
 
-<i>I have experience with business intelligence and analytics (BI), front-end web development, aviation (operations, strategy, and revenue management), and more.</i>
+<i><b>I have experience with business intelligence and analytics (BI), front-end web development, aviation (operations, strategy, and revenue management), and more.</b></i>
 
 Currently, I am working as the Continuous Improvement Manager for New-Indy Packaging in Metropolitan Los Angeles (Cerritos, CA). My role includes work as an analyst and seeking dynamic, data-driven solutions that improve operational efficiency and profitability.
 
