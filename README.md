@@ -49,6 +49,16 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
   <li>Tableau</li>
 </ul>
 
+<b>Object Oriented Programming (OOP)</b>
+<ul>
+  <li>C++</li>
+  <li>C</li>
+  <li>C#</li>
+  <li>F#</li>
+  <li>Ruby</li>
+  <li>Go</li>
+</ul>
+
 <b>Web Development</b>
 <ul>
   <li>HTML</li>
@@ -59,15 +69,6 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
   <li>BeautifulSoup</li>
 </ul>
 
-<b>Object Oriented Programming (OOP)</b>
-<ul>
-  <li>C++</li>
-  <li>C</li>
-  <li>C#</li>
-  <li>F#</li>
-  <li>Ruby</li>
-  <li>Go</li>
-</ul>
 
 <b>Languages</b>
 <p>
