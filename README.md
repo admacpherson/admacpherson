@@ -77,6 +77,6 @@ Spanish  🟩🟩🟩⬛️⬛️  Conversational <br>
 French   🟩⬛️⬛️⬛️⬛️  Basic proficiency<br></p>
 
 ## Contact
-Portfolio: <a href="https://amacpherson.dev">amacpherson.dev</a><br>
+Portfolio: <a href="https://andrewmacpherson.dev">andrewmacpherson.dev</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/macphersona">linkedin.com/in/macphersona</a><br>
 Email: <a href="mailto:macphersona@spu.edu">macphersona@spu.edu</a><br>
