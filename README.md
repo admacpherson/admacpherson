@@ -44,9 +44,9 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
 <ul>
   <li>Python <i>(including pandas, numpy, matplotlib, TensorFlow, keras)</i></li>
   <li>SQL</li>
-  <li>Power BI</li>
   <li>Microsoft Excel</li>
   <li>Tableau</li>
+  <li>Power BI</li>
 </ul>
 
 <b>Object Oriented Programming (OOP)</b>
