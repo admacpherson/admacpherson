@@ -15,6 +15,7 @@ Please take a look at my profile and feel free reach out to me with any question
 <b>Bachelor of Science, Computer Science</b> | Seattle Pacific University <br>
 <b>Bachelor of Science, Physics</b> | Seattle Pacific University <br>
 <b>Bachelor of Arts, Honors Liberal Arts </b>| Seattle Pacific University <br>
+<i>Study Abroad | London, UK</i><br>
 
 ## Experience
 <b>Continuous Improvement Manager</b> | New-Indy Packaging<br>
