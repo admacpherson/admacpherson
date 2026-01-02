@@ -1,9 +1,9 @@
 # Andrew Macpherson
 
 ## About Me
-I am an analyst and developer currently working as a Continuous Improvement Manager at New-Indy Packaging in Los Angeles County, California where I innovate and apply dynamic, data-driven solutions to improve operational efficiency and profitability. I graduated from Seattle Pacific University June 2023 and hold degrees in in Computer Science (B.S.), Physics (B.S.), and Honors Liberal Arts (B.A.). 
+I am an analyst and developer currently working as a Continuous Improvement Manager at New-Indy Packaging in Los Angeles County, California where I innovate and apply dynamic, data-driven solutions to improve operational efficiency and profitability. I graduated from Seattle Pacific University with degrees in in Computer Science (B.S.), Physics (B.S.), and Honors Liberal Arts (B.A.). 
 
-A motivated worker, I pride myself on my work ethic and ability to work both individually and as part of a team. I am passionate about telling stories with data to produce tangible results and am particularly experienced in aviation and operations. I am thrilled to say that my award-winning work has been used in over 50 countries across the world and across all 6 continents.
+A motivated worker, I pride myself on my work ethic and ability to work both individually and as part of a team. I am passionate about telling stories with data to produce tangible results and am particularly experienced in aviation and operations. I am thrilled to say that my award-winning work has been used in over 70 countries across the world and across all 6 continents.
 
 <i><b>I have experience with business intelligence and analytics (BI), front-end web development, aviation (operations, strategy, and revenue management), and more.</b></i>
 
@@ -73,11 +73,11 @@ Rev. Christopher Stratton | Academic Dean | Pacifica Christian Orange County
 
 <b>Languages</b>
 <p>
-English  🟩🟩🟩🟩🟩  Native fluency<br>
-Spanish  🟩🟩🟩⬛️⬛️  Conversational <br>
+English  🟩🟩🟩🟩🟩  Native<br>
+Spanish  🟩🟩🟩⬛️⬛️  Conversational fluency<br>
 French   🟩⬛️⬛️⬛️⬛️  Basic proficiency<br></p>
 
 ## Contact
 Portfolio: <a href="https://andrewmacpherson.dev">andrewmacpherson.dev</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/macphersona">linkedin.com/in/macphersona</a><br>
-Email: <a href="mailto:macphersona@spu.edu">macphersona@spu.edu</a><br>
+Email: <a href="mailto:macphersona@spu.edu">macphersona[@]spu.edu</a><br>
